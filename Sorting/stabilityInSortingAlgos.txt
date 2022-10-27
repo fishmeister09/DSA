@@ -1,0 +1,20 @@
+eg: let an array is sorted alphabetically 
+
+arr[]={("anil",50),("ayan",80),("pyush",50),("ramesh",80)}
+----------------------------------------------------------
+
+now we want to sort it according to the marks but the original sorting must be kept as it is then it is called stable sort
+
+STABLE SORT: (ascending order of marks)
+----------------------------------------
+arr[]={("anil",50),("pyush",50),("ayan",80),("ramesh",80)}
+
+STABLE SORT ALGOS: bubble sort, insertion sort, merge sort,...
+
+
+
+UNSTABLE SORT: (ascending order of marks)
+------------------------------------------
+arr[]={("pyush",50),("anil",50),("ayan",80),("ramesh",80)}
+
+UNSTABLE SORT ALGOS: selection sort, quick sort, heap sort,...
